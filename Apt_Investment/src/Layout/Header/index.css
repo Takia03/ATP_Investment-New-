@@ -1,0 +1,49 @@
+@media (max-width: 768px) {
+    nav {
+      flex-wrap: nowrap; /* Ensure the nav items stay on one line */
+      overflow-x: auto; /* Enable horizontal scrolling if necessary */
+    }
+  }
+  
+
+  .container {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 16px; /* Adjust this if necessary */
+  }
+  
+
+  .Signin{
+    background-color: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  .Signin:hover{
+    scale: 1;
+    color:#456FE8
+  }
+
+  .Signup{
+    background-color: none;
+    color: #456FE8;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  .Signup:hover{
+    scale: 1;
+    color:#456FE8
+  }
+
+  .Download{
+    background-color: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+  }

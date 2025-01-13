@@ -1,0 +1,55 @@
+
+
+/* index.css */
+.first-section {
+    background-color: #f5f5f5; /* Light gray color */
+    width: 100vw; /* Ensure the section takes up the full viewport width */
+    margin-left: calc(-50vw + 50%); /* Remove any unwanted space on the left side */
+    margin-right: calc(-50vw + 50%); /* Remove any unwanted space on the right side */
+    padding: 4rem 0; /* Adjust padding as needed */
+  }
+  /* Smooth transitions for carousel */
+.carousel-slide {
+  transition: all 0.3s ease-in-out;
+}
+
+/* Custom styles for the steps arrows */
+/* index.css */
+.step-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: -30px;
+  }
+  
+
+/* index.css */
+.full-width-section {
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    margin-right: calc(-50vw + 50%);
+    padding: 2rem calc((100vw - 1400px) / 2); /* Increased from 1200px to 1400px */
+    background-color: #f5f5f5;
+  }
+  
+  /* Update the container max-width */
+  .container {
+    max-width: 1400px; /* Increased from 1200px */
+    margin: 0 auto;
+  }
+  .full-width-section img {
+    width: 100%;
+    height: auto;
+  }
+  
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .step-arrow {
+    display: none;
+  }
+}
+
