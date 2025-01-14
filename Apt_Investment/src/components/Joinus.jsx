@@ -1,5 +1,5 @@
 import { Input } from "@/components/ui/input"
-import { Button } from "@/components/button"
+import { Button } from "@/components/ui/button"
 import "../Layout/Footer/index.css"
 
 export default function NewsletterForm() {

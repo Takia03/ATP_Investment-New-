@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import ImageGallery from '@/components/ImageGallery';
-import InvestmentDetails from '@/components/InvestmentDetails';
-import { ProjectDescription } from '@/components/ProjectDescription';
+import ImageGallery from '@/components/imageGallery';
+import InvestmentDetails from '@/components/investmentDetails';
+import { ProjectDescription } from '@/components/projectDescription';
 
 export default function InvestmentPage() {
   const [investment, setInvestment] = useState(null);

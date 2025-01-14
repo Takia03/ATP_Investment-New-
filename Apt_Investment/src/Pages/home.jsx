@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Header from "../Layout/Header";
 import Footer from "../Layout/Footer";
-import Homeinfo from "../Layout/homeinfo";
+import Homeinfo from "../Layout/HomeInfo";
 
 
 export default function Home() {

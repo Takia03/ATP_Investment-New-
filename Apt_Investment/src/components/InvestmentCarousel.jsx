@@ -1,9 +1,9 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Button } from "@/components/button";
+import { Button } from "@/components/ui/button";
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import InvestmentCard from './InvestmentCard';
+import InvestmentCard from './investmentCard';
 import { Link } from 'react-router-dom'; // Correct import
 
 export default function InvestmentCarousel() {

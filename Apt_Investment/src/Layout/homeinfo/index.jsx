@@ -1,5 +1,5 @@
-import { Steps } from '../../components/Steps'
-import  InvestmentCarousel  from '../../components/InvestmentCarousel'
+import { Steps } from '../../components/steps'
+import  InvestmentCarousel  from '../../components/investmentCarousel'
 import './index.css'
 import React from 'react'
 import Hero from '../../components/Hero'
