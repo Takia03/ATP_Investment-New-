@@ -1,0 +1,27 @@
+{"en": {
+    "translation": {
+        "companyName": "ATP INVESTMENT",
+        "invest": "Invest",
+        "promotions": "Promotions",
+        "signIn": "Sign In",
+        "signUp": "Sign Up",
+        "downloadApp": "Download App",
+        "ongoingInvestments": "Ongoing Investment Options",
+          "investmentDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.",
+          "targetAchieved": "Target Achieved",
+          "seeDetails": "See Details",
+          "viewAllProjects": "View All Projects",
+          "loadingInvestments": "Loading investments...",
+          "howToInvest": "How to Invest on the Projects?",
+          "investmentStepsDescription": "Follow these simple steps to start investing in our projects.",
+          "step1Title": "Create Account",
+          "step1Description": "Sign up and verify your identity to start investing",
+          "step2Title": "Choose Project",
+          "step2Description": "Browse and select investment opportunities that match your goals",
+          "step3Title": "Invest",
+          "step3Description": "Fund your account and confirm your investment choices",
+          "step4Title": "Track Progress",
+          "step4Description": "Monitor your investments and watch your portfolio grow"
+    }
+  }
+}

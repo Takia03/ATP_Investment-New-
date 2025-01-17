@@ -1,0 +1,29 @@
+{
+    "bn": {
+      "translation": {
+        "companyName": "ATP INVESTMENT",
+        "invest": "বিনিয়োগ",
+        "promotions": "প্রচার",
+        "signIn": "সাইন ইন",
+        "signUp": "সাইন আপ",
+        "downloadApp": "অ্যাপ ডাউনলোড করুন",
+        "ongoingInvestments": "চলমান বিনিয়োগের বিকল্পসমূহ",
+        "investmentDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.",
+        "targetAchieved": "লক্ষ্য অর্জিত হয়েছে",
+        "seeDetails": "বিস্তারিত দেখুন",
+        "viewAllProjects": "সকল প্রকল্প দেখুন",
+        "loadingInvestments": "বিনিয়োগ লোড হচ্ছে...",
+        "howToInvest": "প্রকল্পগুলিতে বিনিয়োগ করবেন কীভাবে?",
+        "investmentStepsDescription": "আমাদের প্রকল্পগুলিতে বিনিয়োগ শুরু করতে এই সহজ ধাপগুলি অনুসরণ করুন।",
+        "step1Title": "অ্যাকাউন্ট তৈরি করুন",
+        "step1Description": "সাইন আপ করুন এবং আপনার পরিচয় যাচাই করুন",
+        "step2Title": "প্রকল্প নির্বাচন করুন",
+        "step2Description": "ব্রাউজ করুন এবং আপনার বিনিয়োগ নির্বাচন করুন",
+        "step3Title": "বিনিয়োগ করুন",
+        "step3Description": "আপনার অ্যাকাউন্টে অর্থ যোগ করুন এবং বিনিয়োগ নিশ্চিত করুন",
+        "step4Title": "অগ্রগতি অনুসরণ করুন",
+        "step4Description": "আপনার বিনিয়োগের কার্যকারিতা পর্যবেক্ষণ করুন"
+      }
+    }
+  }
+  
